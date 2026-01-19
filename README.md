@@ -27,9 +27,11 @@ This is a simple iOS application that demonstrates basic calculator functionalit
 - **Layout:** Storyboards
 - **Platform:** iOS
 
----
 
 ## Requirements
 - Xcode 14+
 - iOS 15+ (recommended)
 - macOS compatible with Xcode version
+
+## Demo
+![Demo](https://github.com/user-attachments/assets/43a28a3b-7575-4384-9b07-2a9e58bdc98e)
